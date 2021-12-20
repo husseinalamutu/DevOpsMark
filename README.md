@@ -8,7 +8,7 @@ You can check out my Twitter Page at <a href="twitter.com/alamzarts"> PyEngr & A
 - I am kind of a multipotentialite, I have grabbed quite a stack of useful skills on my way - <i> Copywriting, Paid Ads Marketing, Funnel Building, Business Building and the likes. </i>
 but I also love to niche down, no doubt I am a fan of marketing(the <i>Seth Godin</i> type), 
 guess I have greater passion for computational thinking and seeing how a whole solution comes up from like hundreds of smaller solutions.
-- 🌱 I’m currently looking to  work at amazing companies as a fullstack(Html, CSS, BootStrap, JavaScript and Django) or backend(Django) developer.
+- 🌱 I’m currently looking to  work at amazing companies as a fullstack or backend web apps developer.
 - 💞️ I’m also willing to collaborate on meaningful and impactful open source projects.
 - 📫 You can reach me via husseinalamutu@gmail.com or message me on <a href="twitter.com/alamzarts">Twitter</a>
 
